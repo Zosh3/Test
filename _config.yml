@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: My Site
 description: A simple site with Jekyll + GitHub Pages
+sass:
+  style: compressed
