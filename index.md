@@ -1,5 +1,4 @@
 ---
-theme: minima
 title: My Site
 description: A simple site built with GitHub Pages
 ---
