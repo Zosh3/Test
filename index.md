@@ -12,6 +12,6 @@ This page is written in **Markdown** and published with **GitHub Pages**.
 
 - An image:
 
-![A placeholder image](https://picsum.photos/800/300)
+![A placeholder image](images/pikachu.jpg)
 
 
