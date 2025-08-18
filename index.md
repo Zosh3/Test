@@ -9,6 +9,8 @@ This page is written in **Markdown** and published with **GitHub Pages**.
 - Here’s a list
 - A [link](https://www.bbc.com/news)
 - [About](about.md)
+- [About](./about)
+
 - An image:
 
 ![A placeholder image](https://picsum.photos/800/300)
