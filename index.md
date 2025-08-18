@@ -9,7 +9,7 @@ This page is written in **Markdown** and published with **GitHub Pages**.
 - Here’s a list
 - A [link](https://docs.github.com/pages)
 - An image:
-- [About](./about.md)
+- [About](about.md)
 
 ![A placeholder image](https://picsum.photos/800/300)
 
