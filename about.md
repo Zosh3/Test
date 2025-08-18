@@ -1,6 +1,3 @@
----
-title: About
----
 
 # About
 Test page for fancy features
