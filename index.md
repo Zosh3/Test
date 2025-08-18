@@ -13,4 +13,4 @@ This page is written in **Markdown** and published with **GitHub Pages**.
 
 ![A placeholder image](https://picsum.photos/800/300)
 
-[About](./about)
+[About](./about.md)
