@@ -2,4 +2,4 @@
 # About
 Test page for fancy features
 
-[About](./about)
+[Home](./index.md)
